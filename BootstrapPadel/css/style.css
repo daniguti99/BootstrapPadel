@@ -9420,6 +9420,10 @@ a.text-dark:hover, a.text-dark:focus {
   .container {
     min-width: 992px !important;
   }
+.nav-bar {
+  background-image: url(../img/fondo.jpg)
+}
+
   .navbar {
     display: none;
   }
@@ -9511,6 +9515,8 @@ h6,
     transform: translateY(-15px);
   }
 }
+
+
 
 .container-fluid.nav-bar, .nav-bar.container-sm, .nav-bar.container-md, .nav-bar.container-lg, .nav-bar.container-xl {
   position: absolute;
@@ -9652,3 +9658,4 @@ h6,
   background-repeat: no-repeat;
   background-size: cover;
 }
+
